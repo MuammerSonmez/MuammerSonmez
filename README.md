@@ -129,11 +129,16 @@ Master-slave fleet architecture on ROS 2 Humble with decision-support for optima
 <br/>
 
 ```text
-        ___
-       /___\        > signal received.
-      |[o_o]|       > all systems nominal.
-     /|_|=|_|\      > let's build something that moves.
-      /_| |_\
+         (*)         muammer@sonmez
+          |          ---------------
+    .-----------.    Role:     Robotic Software Engineer
+    |  _     _  |    Uni:      Selçuk University
+    | (O)   (O) |    Lab:      KTUN Robotics Lab
+    |    ___    |    Stack:    ROS 2, Nav2, C++, Python
+    |   |___|   |    Sim:      Gazebo, Isaac Sim
+    '-----------'    Mission:  TEKNOFEST 2026 UGV
+     /|       |\     Location: Konya, Türkiye
+    /_|_______|_\    Status:   Open to opportunities
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
